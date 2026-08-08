@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -16,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
