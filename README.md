@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
