@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0520-detect-capital) |
+| [1678-goal-parser-interpretation](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
