@@ -89,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
