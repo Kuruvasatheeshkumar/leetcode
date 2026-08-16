@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -134,4 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
