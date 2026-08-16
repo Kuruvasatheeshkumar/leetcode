@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 | [1486-xor-operation-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
