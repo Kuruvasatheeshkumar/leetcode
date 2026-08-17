@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -193,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
