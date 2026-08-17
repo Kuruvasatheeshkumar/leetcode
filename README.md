@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1672-richest-customer-wealth) |
