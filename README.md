@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
