@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0066-plus-one) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
