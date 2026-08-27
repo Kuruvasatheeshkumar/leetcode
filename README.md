@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0520-detect-capital) |
