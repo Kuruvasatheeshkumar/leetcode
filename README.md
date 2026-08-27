@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0520-detect-capital) |
