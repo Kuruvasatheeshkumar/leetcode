@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
