@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
