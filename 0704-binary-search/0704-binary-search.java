@@ -1,21 +1,21 @@
 class Solution {
-    public int search(int[] arr, int target) {
-       int l =0;
-       int r = arr.length-1;
+    public int search(int[] nums, int target) {
+        int n = nums.length;
+        int l =0;
+        int r = n-1;
+        while(l<=r) {
 
-       while(l<=r) {
-        int m = (l + r ) / 2;
-        if(arr[m] < target){
-            l= m+1;
+        int m = (l+r) /2;
+            if(nums[m] == target) {
+                return m;
+            }
+            else if(nums[m] < target) {
+                l = m+1;
+            }
+            else if(nums[m] > target) {
+                r = m -1;
+            }
         }
-        else if(arr[m] > target) {
-            r = m-1;
-        }
-        else if(arr[m] == target ) {
-            return m;
-        }
-       }
-       return -1;
-
+        return -1;
     }
 }
