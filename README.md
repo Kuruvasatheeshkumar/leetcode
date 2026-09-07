@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
