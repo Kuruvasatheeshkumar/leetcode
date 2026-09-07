@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 ## Monotonic Stack
 |  |
 | ------- |
