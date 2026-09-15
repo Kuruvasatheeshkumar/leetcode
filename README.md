@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
