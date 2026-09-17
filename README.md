@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0763-partition-labels) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Pigeonhole Principle
 |  |
