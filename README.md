@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0917-reverse-only-letters) |
 | [1678-goal-parser-interpretation](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1678-goal-parser-interpretation) |
