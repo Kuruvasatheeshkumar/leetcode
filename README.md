@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0069-sqrtx) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
