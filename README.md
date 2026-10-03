@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0125-valid-palindrome) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
