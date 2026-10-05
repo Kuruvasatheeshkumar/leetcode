@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0917-reverse-only-letters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
