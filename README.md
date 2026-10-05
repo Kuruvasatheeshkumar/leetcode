@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0766-toeplitz-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
