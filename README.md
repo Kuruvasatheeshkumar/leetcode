@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0763-partition-labels) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
