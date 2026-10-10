@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1122-relative-sort-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Timsort
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1046-last-stone-weight) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ternary Search
 |  |
 | ------- |
