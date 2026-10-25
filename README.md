@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1122-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0766-toeplitz-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -561,4 +563,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1254-number-of-closed-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kuruvasatheeshkumar/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
